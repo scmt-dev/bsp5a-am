@@ -1,0 +1,25 @@
+h1{
+    color: rgba(126, 196, 132, 0.896) !important; 
+    font-size: 20px; 
+}
+body{
+    background-color: #f28194;
+}
+.bg-green{
+    background-color: green;
+}
+.font-50{
+    font-size: 50px;
+}
+.font-50:hover{
+    font-size: 100px;
+    color: white;
+    background-color: black;
+}
+body:hover{
+    background-color: red;
+}
+img:hover{
+    border: 5px black solid;
+    transform: rotate(45deg);
+}
